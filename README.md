@@ -1,1 +1,1 @@
-# cy2550
+# this repo holds all the course projects
