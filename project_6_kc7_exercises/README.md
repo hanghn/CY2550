@@ -7,6 +7,3 @@ Threat-hunting exercises using [KC7](https://kc7cyber.com), a free cybersecurity
 - Investigating phishing campaigns, credential theft, and lateral movement
 - Reading security telemetry: authentication logs, email events, web traffic, endpoint events
 - Building investigative narratives from fragmented log evidence
-
-## Course context
-CY 2550 — Foundations of Cybersecurity · Khoury College of Computer Sciences, Northeastern University · Spring 2026
