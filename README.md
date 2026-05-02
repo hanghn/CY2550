@@ -15,8 +15,6 @@ Coursework from **CY 2550 (Foundations of Cybersecurity)** at Northeastern Unive
 | 7 | [Social Engineering](./project_7_social_engineering/) | OSINT & pretexting | Open-source intel, phishing analysis |
 | 8 | [CMD CTF](./project_8_cmd_ctf/) | Command-line CTF | Text search, file forensics, encoding |
 
-> *Note: project 3 was not part of this section's curriculum.*
-
 ## Skills demonstrated across the repo
 
 - **Linux & command line** — Bash, file permissions, redirection, shell scripting, system tools
