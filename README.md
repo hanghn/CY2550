@@ -27,6 +27,4 @@ Coursework from **CY 2550 (Foundations of Cybersecurity)** at Northeastern Unive
 
 ## Course context
 
-CY 2550 — Foundations of Cybersecurity · Khoury College of Computer Sciences, Northeastern University · Spring 2026
-
-The course is the foundational security course at Northeastern, structured around hands-on offensive and defensive exercises rather than pure theory.
+The course is the foundational security course, structured around hands-on offensive and defensive exercises rather than pure theory.
